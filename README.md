@@ -3,7 +3,7 @@ You can play tictactoe in simulated environment  with computer.
 
 ## Usage
 
-`$npm install`
+`$ npm install`
 
 `$ npm run start`
 
