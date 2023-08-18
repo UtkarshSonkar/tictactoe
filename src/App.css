@@ -1,0 +1,79 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.strike-row-1 {
+  width: 16%;
+  height: 4px;
+  top: 37%;
+  background-color: black;
+  position: absolute;
+}
+
+.strike-row-2 {
+  width: 16%;
+  height: 4px;
+  top: 47%;
+  background-color: black;
+  position: absolute;
+}
+.strike-row-3 {
+  width: 16%;
+  height: 4px;
+  top: 58%;
+  background-color: black;
+  position: absolute;
+}
+.strike-col-1 {
+  width: 4px;
+  height: 35%;
+  left: 45%;
+  top: 31%;
+  background-color: black;
+  position: absolute;
+}
+.strike-col-2 {
+  width: 4px;
+  height: 35%;
+  left: 50%;
+  top: 31%;
+  background-color: black;
+  position: absolute;
+}
+.strike-col-3 {
+  width: 4px;
+  height: 35%;
+  left: 55%;
+  top: 31%;
+  background-color: black;
+  position: absolute;
+}
+.strike-diagnol-1 {
+  width: 17%;
+  height: 4px;
+  top: 48%;
+  left: 41%;
+  background-color: black;
+  position: absolute;
+  transform: skewY(45deg);
+}
+.strike-diagnol-2 {
+  width: 17%;
+  height: 4px;
+  top: 50%;
+  left: 41%;
+  background-color: black;
+  position: absolute;
+  transform: skewY(-45deg);
+}
+.win-status-tag {
+  position: relative;
+  top: -300px;
+}
